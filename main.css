@@ -1,0 +1,66 @@
+body {
+    background-color: lightyellow;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: darkblue;
+}
+
+p {
+    font-size: 20px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+/* header div */
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: yellow;
+    color: blue;
+    text-align: left;
+    padding: 5px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    height: 60px;
+    width: 100%;
+}
+
+/* footer div*/
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: yellow;
+    color: darkblue;
+    text-align: left;
+    padding: 5px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    height: 60px;
+    width: 100%;
+}
+
+/* main div */
+.main {
+    display: flex;
+    justify-content: space-between;
+    background-color: lightblue;
+    color: darkblue;
+    text-align: center;
+    padding: 5px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    height: 60px;
+    width: 100%;
+}
+
+/* navigation div (left) */
+.nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: lightblue;
+    color: darkblue;
+    text-align: left;
+    padding: 5px;
+    text-transform: uppercase;
+    border-radius: 5px;
+    height: 60px;
+    width: 100%;
+}
